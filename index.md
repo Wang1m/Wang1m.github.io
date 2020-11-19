@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
 # Yiming Wang(王一鸣)
-## Header 2
-### Header 3
+
 # On line measuring instrument for multi physical field of molten pool in fusion welding and additive forming
 
 Major developers: Lianfa Bai, Yi zhang, Jing han, Zhuang Zhao, Jun Lu, Yiming Wang, Housen Xie, Chenrui Zhang, Xingwang Xu.
@@ -29,15 +28,15 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 
 # Pictures
 
-<img width="300" height="300" src="imgs/uav1.png"/>
+<img width="500" height="400" src="互联网加.jpg"/>
 <img width="200" height="300" src="imgs/cer1.jpg"/>
 <img width="200" height="300" src="imgs/cer2.jpg"/>
 
 
 # Videos
       
-<video id="video" controls="" preload="none" poster="imgs/vis.jpg">
-      <source id="mp4" src="imgs/1.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="互联网加.jpg">
+      <source id="mp4" src="1.mp4" type="video/mp4">
       </video>
 	  
 <video id="video" controls="" preload="none" poster="imgs/ir.jpg">
