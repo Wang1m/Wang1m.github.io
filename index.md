@@ -21,7 +21,7 @@ Second award in the 11th “Challenge Cup” Jiangsu college students’ Entrepr
 # Pictures
 
 <img width="500" height="320" src="互联网加.jpg"/><img width="450" height="320" src="互联网加2.jpg"/>
-<img width="400" height="640" src="证明.jpg"/>
+<img width="450" height="640" src="证明.jpg"/>
 
 
 # Videos
