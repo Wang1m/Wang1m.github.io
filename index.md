@@ -8,15 +8,14 @@ Major developers: Lianfa Bai, Yi Zhang, Jing Han, Zhuang Zhao, Jun Lu, Yiming Wa
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
-<center><img width="800" height="400" src="设备.jpg"/></center><br/>
+<center><img width="800" height="380" src="设备.jpg"/></center><br/>
 
 Fusion welding and additive manufacturing technology has already penetrated into many military and people's livelihood fields, such as aerospace, weapon equipment, ship and marine engineering, new energy and new materials, nuclear equipment, automobile and rail vehicles.At present, there are some on-line measurement devices for molten pool at home and abroad, but they are mainly based on single physical quantity measurement and have low efficiency.Integrating multiple types of existing measuring instruments, there are common problems such as single measurement, low efficiency, and bulkiness.The instrument of this project will create a precedent for the integration of spectral material, 2D/3D vision, and temperature/stress measurement before and after the molten pool is solidified.
 
 # Multi module measurement
 
-To work on 
-
-<center><img width="600" height="400" src="多模块相机.jpg"/></center><br/>
+Extend single physical quantity to multi-physical quantity measurement, integrating visual form, temperature, residual stress, and three-dimensional structure to cooperate with each other.
+<center><img width="700" height="400" src="多模块相机.jpg"/></center><br/>
 
 # Awards
 
@@ -25,8 +24,8 @@ Second award in the 11th “Challenge Cup” Jiangsu college students’ Entrepr
 
 # Pictures
 
-<img width="600" height="400" src="互联网加.jpg"/>
-<img width="600" height="400" src="互联网加2.jpg"/>
+<img width="900" height="600" src="互联网加.jpg"/>
+<img width="900" height="640" src="互联网加2.jpg"/>
 
 
 
