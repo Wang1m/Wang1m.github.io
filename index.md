@@ -4,13 +4,13 @@
 
 # On line measuring instrument for multi physical field of molten pool in fusion welding and additive forming
 
-Major developers: Lianfa Bai, Yi zhang, Jing han, Zhuang Zhao, Jun Lu, Yiming Wang, Housen Xie, Chenrui Zhang, Xingwang Xu.
+Major developers: Lianfa Bai, Yi Zhang, Jing Han, Zhuang Zhao, Jun Lu, Yiming Wang, Housen Xie, Chenrui Zhang, Xingwang Xu.
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
 <center><img width="640" height="400" src="设备.jpg"/></center><br/>
 
-The IRS UVA is a integrated reconnaissance/strike UAV (IRS UAV) stystem that is able to detect and track target and then strike. The IRS UAV is composed of six-rotor unmanned helicopter imaging module and onboard computing platform. We focus the targets containing different types of vehicles, motorways, bridges, etc.
+Fusion welding and additive manufacturing technology has already penetrated into many military and people's livelihood fields, such as aerospace, weapon equipment, ship and marine engineering, new energy and new materials, nuclear equipment, automobile and rail vehicles.At present, there are some on-line measurement devices for molten pool at home and abroad, but they are mainly based on single physical quantity measurement and have low efficiency.Integrating multiple types of existing measuring instruments, there are common problems such as single measurement, low efficiency, and bulkiness.The instrument of this project will create a precedent for the integration of spectral material, 2D/3D vision, and temperature/stress measurement before and after the molten pool is solidified.
 
 # Six-rotor unmanned helicopter
 
