@@ -12,24 +12,21 @@ Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing Univers
 
 Fusion welding and additive manufacturing technology has already penetrated into many military and people's livelihood fields, such as aerospace, weapon equipment, ship and marine engineering, new energy and new materials, nuclear equipment, automobile and rail vehicles.At present, there are some on-line measurement devices for molten pool at home and abroad, but they are mainly based on single physical quantity measurement and have low efficiency.Integrating multiple types of existing measuring instruments, there are common problems such as single measurement, low efficiency, and bulkiness.The instrument of this project will create a precedent for the integration of spectral material, 2D/3D vision, and temperature/stress measurement before and after the molten pool is solidified.
 
-# Six-rotor unmanned helicopter
-
-The six-rotor unmanned helicopter is from DJI and the model is M600. M600 provides rich set of instructions for UAV control, and can be controlled to performs various tasks.
-
 # Multi module measurement
 
 To work on 
 
 <center><img width="600" height="400" src="多模块相机.jpg"/></center><br/>
 
-# Onboard computing platform
+# Awards
 
-For online real-time reconnaissance and reaction, the data processing is onboard. The onboard computing platform is NVIDIA JETSON TX2, where we perform detection and tracking agrithms. 
+First award in the 5th China College Students’ “Internet Plus” Innovation and Entrepreneurship Competition; 
+Second award in the 11th “Challenge Cup” Jiangsu college students’ Entrepreneurship plan competition.
 
 # Pictures
 
 <img width="600" height="400" src="互联网加.jpg"/>
-<img width="200" height="300" src="imgs/cer1.jpg"/>
+<img width="600" height="400" src="互联网加2.jpg"/>
 
 
 
@@ -39,9 +36,6 @@ For online real-time reconnaissance and reaction, the data processing is onboard
       <source id="mp4" src="1.mp4" type="video/mp4">
       </video>
 	  
-<video id="video" controls="" preload="none" poster="imgs/ir.jpg">
-      <source id="mp4" src="imgs/ir.mp4" type="video/mp4">
-      </video>
 - Bulleted
 - List
 
@@ -53,12 +47,3 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wang1m/Wang1m.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
