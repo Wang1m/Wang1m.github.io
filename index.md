@@ -3,13 +3,13 @@
 # Yiming Wang(王一鸣)
 ## Header 2
 ### Header 3
-# Integrated Reconnaissance/Strike UAV (IRS UAV)
+# On line measuring instrument for multi physical field of molten pool in fusion welding and additive forming
 
-Major developers: Lianfa Bai, Yi zhang, Jing han, Xiaoyu Chen, Sitong Chen, XiuXiu Chu, Qixing Wang, Junwei Zhu, Mingzhu Li, Jiani Gao, Qin Wang, Canlong Wang, Yonghao Huang.
+Major developers: Lianfa Bai, Yi zhang, Jing han, Zhuang Zhao, Jun Lu, Yiming Wang, Housen Xie, Chenrui Zhang, Xingwang Xu.
 
 Jiangsu Key Laboratory of Spectral Imaging & Intelligence Sense, Nanjing University of Science and Technology, Nanjing 210094, china
 
-<center><img width="640" height="400" src="互联网加.jpg"/></center><br/>
+<center><img width="640" height="400" src="设备.jpg"/></center><br/>
 
 The IRS UVA is a integrated reconnaissance/strike UAV (IRS UAV) stystem that is able to detect and track target and then strike. The IRS UAV is composed of six-rotor unmanned helicopter imaging module and onboard computing platform. We focus the targets containing different types of vehicles, motorways, bridges, etc.
 
@@ -37,7 +37,7 @@ For online real-time reconnaissance and reaction, the data processing is onboard
 # Videos
       
 <video id="video" controls="" preload="none" poster="imgs/vis.jpg">
-      <source id="mp4" src="imgs/vis.mp4" type="video/mp4">
+      <source id="mp4" src="imgs/1.mp4" type="video/mp4">
       </video>
 	  
 <video id="video" controls="" preload="none" poster="imgs/ir.jpg">
