@@ -30,19 +30,10 @@ Second award in the 11th “Challenge Cup” Jiangsu college students’ Entrepr
 
 
 # Videos
-      
+
+ 
 <video id="video" controls="" preload="none" poster="互联网加.jpg">
       <source id="mp4" src="1.mp4" type="video/mp4">
       </video>
 	  
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
